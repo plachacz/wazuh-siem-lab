@@ -50,4 +50,4 @@ Celem projektu jest monitorowanie bezpieczeństwa systemu oraz wykrywanie zagro�
 | Security Configuration Assessment | ✅ Działa |
 
 ## Screenshots
-(folder /screenshots)
+*(folder /screenshots)*
